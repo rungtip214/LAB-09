@@ -70,6 +70,8 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-5.png">
 </p> 
 
+![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture03.PNG?raw=true)
+
 ####2.5.3. การทดลองย่อย 3  -- การใช้ปากกา
 * การทดลองเปลี่ยนขนาดและสีของปากกา โดยใช้ properties Width และ Color
 <p align="center">
