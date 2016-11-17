@@ -76,23 +76,43 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 * การทดลองเปลี่ยนขนาดและสีของปากกา โดยใช้ properties Width และ Color
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-6.png">
-</p> 
+</p>
+
+![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture04.PNG?raw=true)
+
 * เปลี่ยนชนิดของปากกาเป็นเส้นประ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-7.png">
 </p> 
 
+![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture05.PNG?raw=true)
+
 * ใช้ Pen ร่วมกับ Brush  
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-8.png">
-</p> 
+</p>
+
+![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture06.PNG?raw=true)
 
 * ใช้ Pen ร่วมกับ HatchBrush  เพื่อสร้างลายเส้นแบบต่างๆ
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-9.png">
 </p> 
  
+![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture07.PNG?raw=true)
 
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
  * เลือกรูปแบจาก [MSDN: HatchStyle Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.hatchstyle(v=vs.110).aspx) แล้ววาดภาพมาส่งอย่างน้อย 6 รูปแบบ 
+ 
+ ![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture08.PNG?raw=true)
+ 
+ ![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture09.PNG?raw=true)
+ 
+ ![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture10.PNG?raw=true)
+ 
+ ![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture11.PNG?raw=true)
+ 
+ ![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture12.PNG?raw=true)
+ 
+ ![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture13.PNG?raw=true)
