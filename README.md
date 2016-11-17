@@ -58,11 +58,11 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 ####2.5.1.	การใช้สีโดยการผสมค่าสี
 * เพิ่ม Code ต่อไปนี้ลงในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)``` แล้วทดลอง Run โปรแกรม
 
-![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture02.PNG?raw=true)
-
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-4.png">
 </p> 
+ 
+ ![](https://github.com/rungtip214/LAB-09/blob/master/imgs/Capture02.PNG?raw=true)
  
 ####2.5.2.	โดยการใช้ methode FromName 
 * เพิ่ม Code ต่อไปนี้ลงในฟังก์ชัน private void Form1_Paint(object sender, PaintEventArgs e) แล้วทดลอง Run โปรแกรม
